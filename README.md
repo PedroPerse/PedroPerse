@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">👋 Olá! Eu sou o Pedro Perse</h1>
 
-<!--
-**PedroPerse/PedroPerse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">💻 Desenvolvedor Fullstack</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Com 1 ano de experiência, estou em constante evolução para dominar tanto o universo Web quanto o Backend.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Sobre mim
+
+- 💼 Desenvolvedor Fullstack em formação
+- 🔁 Experiência prática em desenvolvimento web e automação de processo
+- 📚 Aprendendo Java na IsiFLIX(professor Isidro), Bom dominio em JavaScript | TypeScript | React |Node.JS | MySQL e explorando novas tecnologias
+- 🎮 Apaixonado por animes, games e tecnologia
+
+---
+
+### 🧰 Tecnologias do dia a dia
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+</p>
+
+---
+
+### 📊 GitHub Stats & Skills Graph
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPerse&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPerse&layout=compact&langs_count=7&theme=tokyonight&hide_border=false"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroPerse&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Contato
+
+<p align="center">
+  <a href="pedroperse1000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="[https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/pedro-henrique-de-oliveira-perse-29606b24b/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
