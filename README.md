@@ -55,3 +55,7 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PedroPerse/PedroPerse/output/github-snake.svg" />
+</p>
