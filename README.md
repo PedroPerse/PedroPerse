@@ -11,7 +11,7 @@
 ### 🧠 Sobre mim
 
 - 💼 Desenvolvedor Fullstack em formação
-- 🔁 Experiência prática em desenvolvimento web e automação de processo
+- 🔁 Experiência prática em desenvolvimento web e automações de processos
 - 📚 Aprendendo Java na IsiFLIX(professor Isidro), Bom dominio em JavaScript | TypeScript | React |Node.JS | MySQL e explorando novas tecnologias
 - 🎮 Apaixonado por animes, games e tecnologia
 
