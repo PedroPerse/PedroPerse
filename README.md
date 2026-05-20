@@ -13,7 +13,7 @@
 
 ### 🧠 Sobre mim
 
-- 🤖 **+2 anos com RPA** — criando automações com Python, Playwright, UiPath, Power Automate e outras ferramentas
+- 🤖 **+2 anos com RPA** — criando automações com Python, Playwright, UiPath, Power Automate, Apachi Nifi e outras ferramentas
 - 🐍 Bom domínio de **Python** para bots, scripts e consumo de APIs
 - 🌐 Experiência com **JavaScript / TypeScript** no desenvolvimento web
 - 🗃️ Trabalho com bancos de dados relacionais: **PostgreSQL · Oracle DB · MySQL**
