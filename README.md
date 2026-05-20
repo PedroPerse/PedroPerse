@@ -18,7 +18,6 @@
 - 🌐 Experiência com **JavaScript / TypeScript** no desenvolvimento web
 - 🗃️ Trabalho com bancos de dados relacionais: **PostgreSQL · Oracle DB · MySQL**
 - ☁️ Estudando **Backend com Python/Java** e **Cloud** — sempre crescendo
-- 🎮 Apaixonado por tecnologia, animes e games
 
 ---
 
