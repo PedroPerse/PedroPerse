@@ -67,12 +67,17 @@ Bots desenvolvidos em Python com Playwright — todos open source e organizados 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPerse&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPerse&layout=compact&langs_count=7&theme=tokyonight&hide_border=false"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroPerse&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroPerse&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroPerse&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroPerse&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroPerse&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroPerse&theme=tokyonight&utcOffset=-3" />
 </p>
 
 ---
